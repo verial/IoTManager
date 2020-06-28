@@ -42,7 +42,6 @@ String analog_value_names_list;
 int enter_to_analog_counter;
 
 String dallas_value_name;
-int enter_to_dallas_counter;
 
 String levelPr_value_name;
 String ultrasonicCm_value_name;

@@ -31,7 +31,6 @@ void Device_init() {
     enter_to_analog_counter = 0;
 
     dallas_value_name = "";
-    enter_to_dallas_counter = 0;
 
     levelPr_value_name = "";
     ultrasonicCm_value_name = "";

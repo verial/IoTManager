@@ -150,6 +150,10 @@
       "title": "{{SetWiFiTimeZone}}"
     },
     {
+      "type": "h4",
+      "title": "Time: {{time}}"
+    },
+    {
       "type": "input",
       "title": "",
       "name": "timezone-arg",
