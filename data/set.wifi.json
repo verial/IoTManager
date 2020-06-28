@@ -1,6 +1,7 @@
 {
   "configs": [
     "/config.setup.json",
+    "/config.live.json",
     "/lang/lang.ru.json"
   ],
   "title": "Конфигурация",
